@@ -4,7 +4,7 @@
 <h3 align="center"> Programmer from Russia 🇷🇺</h3>
 <!--
 
-
+<img src="путь к файлу" alt="альтернативный текст">
 **VovcheG1/VovcheG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
