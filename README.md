@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VovcheG1=compact)](https://github.com/anuraghazra/github-readme-stats)
 My stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovcheG1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VovcheG1)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
