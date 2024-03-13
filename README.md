@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> IT news writer from Russia 🇷🇺</h3>
+<h3 align="center"> Programmer from Russia 🇷🇺</h3>
 <!--
 **VovcheG1/VovcheG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
