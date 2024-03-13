@@ -3,9 +3,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Programmer from Russia 🇷🇺</h3>
 <!--
+My 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VovcheG1)](https://github.com/anuraghazra/github-readme-stats)
 **VovcheG1/VovcheG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovcheG1)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
